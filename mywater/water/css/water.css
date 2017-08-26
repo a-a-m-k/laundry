@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; }
+html {
+	height: 100%;
+}
+body {
+	color: #fff;
+
+	height: 100%;
+	text-align: center;
+}
+#home{
+    color:white;
+	background-image: url("../images/wpb.jpeg");
+}
